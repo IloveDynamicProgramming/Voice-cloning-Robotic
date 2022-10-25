@@ -1,24 +1,8 @@
-# README
+**Authors**: Tri Duc Nguyen, Giap Huy Bui, Phat Thanh Dang, Tan Nguyen Duc Bui, Bach Tat Nguyen, Khoi Hoang Bao Nguyen
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Context**: internship at VNU-HCM University of Science
 
-Things you may want to cover:
+**Inspiration**: using Voice-cloning, an application of AI algorithm, in making a website facilitate reading books for children in parents' real voice 
 
-* Ruby version
+**Progress**: English version finished; working on Vietnamese version (due to difficulty in gathering Vietnamese voice dataset); planning to publish official website in February 2022
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
